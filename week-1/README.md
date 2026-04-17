@@ -1,7 +1,7 @@
 # Nädal 1: SQL Basics -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
-- Õppisin kasutama kuut olulist SQL-i käsku: SELECT, WHERE, ORDER BY, LIMIT, DISTINCT ja COUNT.
+- Õppisin kasutama kuut SQL-i käsku: SELECT, WHERE, ORDER BY, LIMIT, DISTINCT ja COUNT.
 Kasutades uusi SQL-oskusi, viisin läbi esimese päris analüüsi sales tabelis. Tuvastasin andmetes dublikaate ja leidsin puuduvaid andmeid (NULL).
 - Osalesin meeskonna andmemaastiku koostamisel.
 - Vormistasin oma nädala töö GitHubi portfoolios.

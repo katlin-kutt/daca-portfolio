@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 # DACA Portfoolio -- Kätlin Kütt
 
 See repositoorium sisaldab minu DACA õppeprojekte ja portfooliot.
@@ -32,4 +32,4 @@ Liitusin DACA programmiga, kuna soovin tutvuda lähemalt andmeanalüüsi valdkon
 
 **LinkedIn:** 
 =======
->>>>>>> 8e9839fa3e4ec8c7c4ca9118aed869623d602bc6
+

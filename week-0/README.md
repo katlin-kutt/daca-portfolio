@@ -12,7 +12,7 @@
 - Oluline on süsteemne dokumenteerimine.
 
 ## Failid
-- **[setup_screenshot.png](./individual/setup_screenshot.png)** – isikliku keskkonna kuvatõmmis (individual kaustas)
+- **[setup_screenshot.PNG](./individual/setup_screenshot.PNG)** – isikliku keskkonna kuvatõmmis (individual kaustas)
 
 ## Meeskonna töö
 - **[week0_team_summary.md](./team/week0_team_summary.md)** – Ülevaade meeskonnatööst (team kaustas)

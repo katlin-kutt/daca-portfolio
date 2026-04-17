@@ -30,6 +30,5 @@ Liitusin DACA programmiga, kuna soovin tutvuda lähemalt andmeanalüüsi valdkon
 
 **Email:** 25katlin@gmail.com
 
-**LinkedIn:** 
-=======
+
 

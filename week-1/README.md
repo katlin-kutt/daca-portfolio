@@ -11,12 +11,12 @@ Kasutades uusi SQL-oskusi, viisin läbi esimese päris analüüsi sales tabelis.
 - Oluline on süsteemne dokumenteerimine ja õige töövoog. Tegevustest peab maha jääma logi, et hiljem vajadusel saaks seda vaadata.
 
 ## Failid
-- **[week1_sales_exploration.sql](individual/week-1_sales_exploration.sql)** – minu SQL päringud koos selgitavate kommentaaridega
-- **[week1_resultsscreenshot-1.png](individual/week-1_resultsscreenshot-1.png)** – poodide kanalid, poodide asukohad, makseviisid
-- **[week1_resultsscreenshot-2.png](individual/week_1_resultsscreenshot-2.png)** – poodide asukohad, NULL ehk online pood
-- **[week1_resultsscreenshot-3.png](individual/week_1_resultsscreenshot-3.png)** – makseviisid
-- **[week1_resultsscreenshot-4.png](individual/week_1_resultsscreenshot-4.png)** – poodide asukohad ja kogukäive
-- **[week1_resultsscreenshot-5.png](individual/week_1_resultsscreenshot-5.png)** – puuduvad asukohad
+- **[week1_sales_exploration.sql](individual/week1_sales_exploration.sql)** – minu SQL päringud koos selgitavate kommentaaridega
+- **[week1_resultsscreenshot-1.png](individual/week1_resultsscreenshot-1.png)** – poodide kanalid, poodide asukohad, makseviisid
+- **[week1_resultsscreenshot-2.png](individual/week1_resultsscreenshot-2.png)** – poodide asukohad, NULL ehk online pood
+- **[week1_resultsscreenshot-3.png](individual/week1_resultsscreenshot-3.png)** – makseviisid
+- **[week1_resultsscreenshot-4.png](individual/week1_resultsscreenshot-4.png)** – poodide asukohad ja kogukäive
+- **[week1_resultsscreenshot-5.png](individual/week1_resultsscreenshot-5.png)** – puuduvad asukohad
 
 ## Meeskonna töö
 - **[week1_data_landscape.md](team/week1_data_landscape.md)** – ülevaade UrbanStyle'i andmekaosest

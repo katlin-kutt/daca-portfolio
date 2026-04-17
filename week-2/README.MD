@@ -15,7 +15,7 @@
 
 
 ## Failid
-- **[week2_sales_cleaning.sql](individual/week2_sales_cleaning.sql)** – Tooteandmete puhastamise SQL päringud koos selgitavate kommentaaridega
+- **[week2_sales_cleaning.sql](individual/week2_sales_cleaning.sql)** – Müügiandmete puhastamise SQL päringud koos selgitavate kommentaaridega
 - **[week2_sales_report.md](individual/week2_sales_report.md)** – puhastamisraport
 
 

@@ -44,3 +44,31 @@ Tuvastati **12 probleemset rida**. Tooteanalüüsi suurim takistus on tootenimed
 | Ebajärjekindlad kategooriad | 0 | Kategooriate nimekujud on konsistentsed |
 | NULL kategooria | 0 | Klassifitseerimine on täielik |
 | **KOKKU** | **12** | |
+
+---
+
+## 4. Kvaliteedikontroll
+Tuvastati **1268 probleemset rida**. Kõige kriitilisem on hindade ebakõla tabelite vahel.
+
+| Kategooria | Leitud probleeme | Kirjeldus |
+| :--- | :---: | :--- |
+| Orvud (Orphan) kliendid | 0 | Kõik müügid viitavad eksisteerivale kliendile |
+| Orvud tooted | 0 | Kõik müügid viitavad eksisteerivale tootele |
+| **Hinna ebakõlad** | **664** | **Müügihind ei klapi tootehinnaga** |
+| Vaimkliendid | 592 | Kliendid, kes pole kunagi ostnud |
+| Vaimtooted | 12 | Tooted, mida pole kunagi müüdud |
+| **KOKKU** | **1268** | |
+
+---
+
+## 5. Kokkuvõte ja soovitused
+
+### Suurim üllatus
+*   **664 hinnaerinevust:** Müügiandmete ja tooteandmete vaheline ebakõla viitab tõsisele veale tabelite vahel.
+*   **Müügiandmete dublikaadid:** Need mõjutavad oluliselt UrbanStyle'i kogukäivet ja vajavad kiiret eemaldamist.
+
+### Soovitused edasiseks tegevuseks
+1.  **Andmeid ei saa praegu usaldada:** Enne tuleb läbi viia täielik puhastus.
+2.  **Prioriteet:** Alustada müügi- ja tooteandmete tabelite dublikaatide puhastamisega.
+3.  **Uurimine:** Tuvastada hindade ebakõla (664 kirjet) juurpõhjus – kas viga on tootehinnas või müügisummas?
+4.  **Alustada tuleb dublikaatide puhastamisega**

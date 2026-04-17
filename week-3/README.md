@@ -16,10 +16,10 @@
 
 ## Failid
 - **[week3_roll_b_kadunud_kliendid.sql](individual/week3_roll_b_kadunud_kliendid.sql)** – Kadunud klientide JOIN-analüüs SQL päringud koos selgitavate kommentaaridega
-- **[week3_results_join-1.png](individual/week3_results_join-1.png)** – kadunud kliendid ülevaade
-- **[week3_results_join-2.png](individual/week3_results_join-2.png)** – kadunud kliendid linnade lõikes kuvatõmmis
-- **[week3_results_join-3.png](individual/week3_results_join-3.png)** – aktiivsete ja kadunud klientide arv kuvatõmmis
-- **[week3_results_join-4.png](individual/week3_results_join-4.png)** – kadunud klientide emailide olemasolu kuvatõmmis
+- **[week3_results_join-1.PNG](individual/week3_results_join-1.PNG)** – kadunud kliendid ülevaade
+- **[week3_results_join-2.PNG](individual/week3_results_join-2.PNG)** – kadunud kliendid linnade lõikes kuvatõmmis
+- **[week3_results_join-3.PNG](individual/week3_results_join-3.PNG)** – aktiivsete ja kadunud klientide arv kuvatõmmis
+- **[week3_results_join-4.PNG](individual/week3_results_join-4.PNG)** – kadunud klientide emailide olemasolu kuvatõmmis
 
 
 ## Meeskonna töö

@@ -24,7 +24,7 @@ Tuvastatud kokku 5509 probleemset rida. Äriliselt tähendab see kolme tüüpi a
 
 
 ### Duplikaatide, NULL-de eemaldamine
-1. Kustutasin 5116 dublikaatset rida, jättes alles vaid iga esimese esinemise (`sale_id` alusel). Tulemuseks on sales_test tabelis 10118 rida ilma dublikaatideta. Kasutasin selleks `DELETE` päringut:
+1. Kustutasin 5116 dublikaatset rida, jättes alles vaid iga esimese esinemise (`sale_id` alusel). Tulemuseks on sales_test tabelis 10118 rida ilma dublikaatideta. Kasutasin selleks `DELETE` ja `UPDATE`päringut:
 
 ```sql
 
